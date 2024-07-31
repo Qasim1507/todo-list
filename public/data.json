@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "task": "Buy groceries",
+      "completed": false,
+      "isEditing": false
+    },
+    {
+      "id": "2",
+      "task": "Read a book",
+      "completed": true,
+      "isEditing": false
+    },
+    {
+      "id": "3",
+      "task": "Write some code",
+      "completed": false,
+      "isEditing": false
+    }
+  ]
+  
